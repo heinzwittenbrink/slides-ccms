@@ -46,6 +46,31 @@ Reports
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fPl62WRVqDg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
+![](https://blogsimages.adobe.com/techcomm/files/2016/07/XML-Documentation-Add-On-for-Adobe-Experience-Manager_Overview-Graphic.jpg)
+
+
+---
+
+XML Documentation for Adobe Experience Manager 3.0
+
+<https://helpx.adobe.com/content/dam/help/en/xml-documentation-solution/3-5/XML-Documentation-for-Adobe-Experience-Manager_6-5_6-4_6-3_User-Guide_EN.pdf>
+
+---
+
+Publishing
+
+[Publishing DITA-Based Technical Content to Adobe Experience Manager Sites | Bounteous](https://www.bounteous.com/insights/2020/06/04/publishing-dita-based-content-aem-sites/ "Publishing DITA-Based Technical Content to Adobe Experience Manager Sites | Bounteous")
+
+
+::: notes
+
+This blog post shows quite well, how the XML Documentation is configured for publishing. It is possible and normally necessary to customize it for the specific DITA topics used by an organization. In a second step the output is connected to specific elements of the Adobe Experience Manager, and these element are linked to specific templates.
+
+
+:::
+
 
 ##
 
