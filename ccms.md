@@ -4,24 +4,6 @@ author: Heinz Wittenbrink
 date: 2021-11-09
 ---
 
-# Questions
-
-## Component Content Management/Content Management
-1. What are the relationships between component content management and content management in general?
-
-## Content Management/Content Strategy
-2. Is there a mutual dependency between content management and content strategy?
-
-## Component Content Management/Web Content Management
-3. Are component content management and web content management completely compatible?
-
-## Component Content Management/Knowledge Management
-4. What are the relationships between component content management and knowledge management/knowledge graphs?
-
-## Component Content Management/Enterprise Content
-5. Is the goal of an encompassing *enterprise content strategy* an illusion?
-
-
 # CMS Types
 
 ## File management
@@ -53,7 +35,11 @@ date: 2021-11-09
 
 ## Component Content Management System
 
-https://www.empolis.com/blog/digitale-transformation/component-content-management/
+> Component Content Management systems manage content at a granular level (component) of content rather than at the document level. Each component represents a single topic, concept or asset (e.g., image, table).
+
+[Forrester Wave vs. Component Content Management](https://web.archive.org/web/20070205021018/http://www.cmpros.org/resources/newsletter/cm-pros-newsletter-2007-01/forrester-wave-vs.-component-content-management "CMPros")
+
+::: notes
 
 > So here is our proposed definition. I’m sure it will elicit lots of comments and maybe a few “flames”, but it provides a starting point we can work with.  
 
@@ -61,13 +47,19 @@ https://www.empolis.com/blog/digitale-transformation/component-content-managemen
 
 [Forrester Wave vs. Component Content Management](https://web.archive.org/web/20070205021018/http://www.cmpros.org/resources/newsletter/cm-pros-newsletter-2007-01/forrester-wave-vs.-component-content-management "CMPros")
 
+https://www.empolis.com/blog/digitale-transformation/component-content-management/
+
+:::
+
 # Basics
 
-## Definition
+## Centralization
 
 > A centralized system that helps organizations capture, manage, store, preserve, and deliver topic-based content (components), whether the content is proprietary or follows a standard architecture, like DITA.
 
 [Term of the Week: Component Content Management System – The Language of Technical Communication](https://tlotc.xmlpress.net/2016/12/20/term-of-the-week-component-content-management-system/ "Term of the Week: Component Content Management System – The Language of Technical Communication")
+
+## Technical Documentation
 
 > The specific CMS systems used in technical documentation are also referred to as component content management system (CCMS).
 
@@ -97,7 +89,7 @@ Process Integration:  interfaces with delivery platforms, such as dynamic delive
 
 # "Component Content Management in Depth"
 
-## Trippe 2005
+## [Trippe 2005](https://web.archive.org/web/20051030194031/http://gilbane.com/whitepapers/X-Hive/Xhive_Gilbane_Whitepaper_CCMS6-final.pdf "Wayback Machine")
 
 ## Repository Functions
 
@@ -160,7 +152,7 @@ Bedienung unterschiedlicher Publikationsformen, ohne separate Dokumente vorhalte
 Kostenreduzierung bei Übersetzungen
 Kontextabhängige Verfügbarmachung der Inhalte
 
-# CMS Features
+# General CMS Features
 
 ## Collaboration
 
@@ -194,11 +186,17 @@ Kontextabhängige Verfügbarmachung der Inhalte
 
 ## Before DITA
 
+- Enterprise Content Management
+- Single Source Publishing
+- Industries: Aircraft, Military, Software
+- SGML > XML
+- Granularity
+
+::: notes
+
 > In addition to expanding the types of content that are now managed, ECM has also ushered ina recognition that content management is a peer application to other kinds of enterprise applications, such as enterprise resource planning (ERP) and customer relationship management (CRM).  (Trippe 2005)
 
 > One complex business process involves technical documentation, catalogs, and other kinds of content used in product support, where reusable content “components” can be managed in a way that complex content products can be assembled, reassembled, and published.  This kind of application is especially critical in markets such as manufacturing, electronics, aviation and other transportation, and the military. (Trippe 2005)
-
-::: notes
 
 > The capital investment made by the aircraft buyers is fully realized when the aircraft is properly maintained by following a comprehensive, long-term—and content-intensive—maintenance program. (Trippe 2005, p.4)
 
@@ -276,7 +274,7 @@ This blog post shows quite well, how the XML Documentation is configured for pub
 
 More:
 
-[IXIASOFT (@IXIASOFT) / Twitter](https://twitter.com/ixiasoft?lang=de "IXIASOFT (@IXIASOFT) / Twitter")
+[\@IXIASOFT](https://twitter.com/ixiasoft "IXIASOFT / Twitter")
 
 ## Author-It
 
@@ -319,3 +317,20 @@ Zendesk Integration
 ## Documoto
 
 -  [Creat, Share, & Sell Equipment Parts Easily! | Documoto](https://documoto.com/ "Creat, Share, & Sell Equipment Parts Easily! | Documoto")
+
+# Questions
+
+## Component Content Management/Content Management
+1. What are the relationships between component content management and content management in general?
+
+## Content Management/Content Strategy
+2. Is there a mutual dependency between content management and content strategy?
+
+## Component Content Management/Web Content Management
+3. Are component content management and web content management completely compatible?
+
+## Component Content Management/Knowledge Management
+4. What are the relationships between component content management and knowledge management/knowledge graphs?
+
+## Component Content Management/Enterprise Content
+5. Is the goal of an encompassing *enterprise content strategy* an illusion?
