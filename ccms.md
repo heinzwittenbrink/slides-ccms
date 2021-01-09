@@ -4,6 +4,16 @@ author: Heinz Wittenbrink
 date: 2021-11-09
 ---
 
+# Goals today
+
+## Basics of component content management
+
+## Discussion
+
+- relationships between component content management and content strategy
+- component content management and structured content on the web
+- research on component content management and an academic approach to content strategy
+
 # CMS Types
 
 ## File management
@@ -86,6 +96,20 @@ Process Integration:  interfaces with delivery platforms, such as dynamic delive
 [Term of the Week: Component Content Management System – The Language of Technical Communication](https://tlotc.xmlpress.net/2016/12/20/term-of-the-week-component-content-management-system/ "Term of the Week: Component Content Management System – The Language of Technical Communication")
 
 :::
+
+## CCM, new roles and the origins of content strategy
+
+> vast impact that component content management has had and will continue to have on the practice of professional and technical communication.
+
+> Content professionals now have to be concerned with much more than writing, editing, and designing documents.
+
+---
+
+> In component content-management contexts, they often take on key roles in larger organizational initiatives to integrate information development and management processes.
+
+> These roles require the ability to effectively collaborate with global and cross-disciplinary teams, model and structure a large corpus content, and plan and implement appropriate component content-management systems and tools
+
+[Anderson & Batova 2015](http://ieeexplore.ieee.org/document/7393887/)
 
 # "Component Content Management in Depth"
 
@@ -180,6 +204,12 @@ Kontextabhängige Verfügbarmachung der Inhalte
 
 ## Origins
 
+> Component content management gained recognition in the mid-1990s when early adopter organizations were looking for more efficient and effective approaches to reusing information between similar products or versionsof the same product.
+
+[Anderson & Batova 2015](http://ieeexplore.ieee.org/document/7393887/)
+
+---
+
 > Bill Trippe first coined the term in a Gilbane Group Content Management Technology Whitepaper sponsored by xHive called Component Content Management in Practice. Interestingly, while he describes it and compares it to other types of content management, he never really provides a simple definition for it.
 
 [Forrester Wave vs. Component Content Management](https://web.archive.org/web/20070205021018/http://www.cmpros.org/resources/newsletter/cm-pros-newsletter-2007-01/forrester-wave-vs.-component-content-management "CMPros")
@@ -224,6 +254,13 @@ Component Content Management in Practice multiple content types, it is called re
 2008: [Component Content Management: Overlooked By Analysts; Required By Technical Publications Departments](https://web.archive.org/web/20080724002927/http://www.dclab.com/component_content_management.asp "Component Content Management: Overlooked By Analysts; Required By Technical Publications Departments")
 
 <https://www.jetro.go.jp/ext_images/canada/pdf/ixiasoft.pdf>
+
+---
+
+> Current component content-management literature suggests that component content management has evolved from a practice focused on single sourcing and reuse strategies for product documentation to a mature discipline concerned with designing pre-sales and post-sales information products for a multitude of devices and delivery channels.
+
+[Anderson & Batova 2015](http://ieeexplore.ieee.org/document/7393887/)
+
 
 
 # Vendors
