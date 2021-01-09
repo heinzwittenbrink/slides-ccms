@@ -4,6 +4,24 @@ author: Heinz Wittenbrink
 date: 2021-11-09
 ---
 
+# Questions
+
+## Component Content Management/Content Management
+1. What are the relationships between component content management and content management in general?
+
+## Content Management/Content Strategy
+2. Is there a mutual dependency between content management and content strategy?
+
+## Component Content Management/Web Content Management
+3. Are component content management and web content management completely compatible?
+
+## Component Content Management/Knowledge Management
+4. What are the relationships between component content management and knowledge management/knowledge graphs?
+
+## Component Content Management/Enterprise Content
+5. Is the goal of an encompassing *enterprise content strategy* an illusion?
+
+
 # CMS Types
 
 ## File management
@@ -212,6 +230,10 @@ Component Content Management in Practice multiple content types, it is called re
 
 # Vendors
 
+## Aktuelle Zusammenstellung
+
+[Best Component Content Management Systems in 2021 | G2](https://www.g2.com/categories/component-content-management-systems "Best Component Content Management Systems in 2021 | G2")
+
 ## Adobe XML Documentation Add-on
 
 - [Adobe Component Content Management System - Features](https://www.adobe.com/products/xml-documentation-for-experience-manager/features.html# "Adobe Component Content Management System - Features")
@@ -250,9 +272,16 @@ This blog post shows quite well, how the XML Documentation is configured for pub
 
 - [#1 DITA CCMS - Enterprise-Class Content Management - IXIASOFT](https://www.ixiasoft.com/ "#1 DITA CCMS - Enterprise-Class Content Management - IXIASOFT")
 
+---
+
+More:
+
+[IXIASOFT (@IXIASOFT) / Twitter](https://twitter.com/ixiasoft?lang=de "IXIASOFT (@IXIASOFT) / Twitter")
+
 ## Author-It
 
 - [Author-It Software Co.](https://www.author-it.com/ "Author-It Software Co.") (Life Sciences)
+- Nicht DITA-/XML-basiert
 
 ## Paligo
 
